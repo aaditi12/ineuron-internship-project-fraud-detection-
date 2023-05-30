@@ -1,7 +1,4 @@
-# ineuron-internship-project-fraud-detection-
-Credit_Card_Fraud_Detection
-This repository basically deals with a machine learning project based on clustering and various other algorithms. It basically tells whether a fraudulent transaction has occured or not.
+# [Credit_Card_Fraud_Detection](https://creditcard-fraud-transaction.herokuapp.com/)
+This repository basically deals with a machine learning project based on clustering  and various other algorithms. It basically tells whether a fraudulent transaction has occured or not.
 
-
-
-![project-2](https://github.com/aaditi12/ineuron-internship-project-fraud-detection-/assets/126409398/fdf2853f-980f-427e-8561-400ba9eb81f1)
+![Web capture_12-10-2022_134757_creditcard-fraud-transaction herokuapp com](https://user-images.githubusercontent.com/69504019/195289563-ea4eff90-3c9a-418b-9db1-bf3a5f2edeb7.jpeg)
